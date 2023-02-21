@@ -1,4 +1,4 @@
-# finnmcg.github.i
+# finnmg.github.io
 <html><script type="text/javascript" src="chrome-extension://kajfghlhfkcocafkcjlajldicbikpgnp/catcher.js"><!-- script injected by Request Maker --></script><head>
 
 <meta charset="utf-8">
